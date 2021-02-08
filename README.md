@@ -13,6 +13,11 @@ TODO: ADD TO THE SPECIFIC DOWNLOAD LINK FROM TUESDAY (We will use the preview ve
 * [SlicerMorph project website with additional tutorials and events calendar](http://SlicerMorph.org)
 * [SlicerMorph Github Source repository](https://github.com/SlicerMorph/SlicerMorph)
 
+## Sample Data Links
+We will mostly use datasets bundled with the SlicerMorph during the workshop. These datasets become available in the `SampleData` module of 3D Slicer after the SlicerMorph extension is installed. 
+
+For demonstration of using MorphoSource data and segmentation examples, we will use this particular dataset: https://www.morphosource.org/concern/media/000076039?locale=en. If you do not have a MorphoSource account, please sign up. 
+
 ### 3D Slicer Basics (UI, Input/Output and Data) 
 *	[Navigating UI](https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html)
 * [Extension Manager and Catalogue](https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#extensions)
