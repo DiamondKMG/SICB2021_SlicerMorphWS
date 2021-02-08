@@ -1,10 +1,17 @@
 # SICB2021 SlicerMorph Workshop
-This is a breif introduction to 3D Slicer and the SlicerMorph extension for the Society for Integrative and Comparative Biology annual meeting. For a full introduction and overview see the [SlicerMorph website](https://slicermorph.github.io/). This content has been modified from the [SlicerMorph S_2020 repository](https://github.com/SlicerMorph/S_2020)
+This is a brief introduction to 3D Slicer and the SlicerMorph extension for the Society for Integrative and Comparative Biology annual meeting. 
+
+## [Installing 3D Slicer and SlicerMorph]
+[See instructions here](https://github.com/SlicerMorph/SlicerMorph#installation)
+TODO: ADD TO THE SPECIFIC DOWNLOAD LINK FROM TUESDAY (We will use the preview version). 
 
 ## Getting Started with 3D Slicer and SlicerMorph
 
 * [Introduction to Slicer - Official Slicer Documentation](https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html)
-* [Difference between Slicer and SlicerMorph](https://docs.google.com/document/d/1VdsYQzhjEh9tT5WQQjb1GUdn5Hmnq8cK3yLzjYeVv5M/edit)
+* [SlicerMorph Modules Description](https://github.com/SlicerMorph/SlicerMorph#module-descriptions)
+* [SlicerMorph Preprint - detailed description of functionality of 3D Slicer and SlicerMorph](https://www.biorxiv.org/content/10.1101/2020.11.09.374926v1)
+* [SlicerMorph project website with additional tutorials and events calendar](http://SlicerMorph.org)
+* [SlicerMorph Github Source repository](https://github.com/SlicerMorph/SlicerMorph)
 
 ### 3D Slicer Basics (UI, Input/Output and Data) 
 *	[Navigating UI](https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html)
@@ -27,7 +34,7 @@ This is a breif introduction to 3D Slicer and the SlicerMorph extension for the 
 *	[SampleData-Volumes-CropVolume](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/CropVolume/CropVolume_and_Volumes.md)
 *	[Transforms](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/Transforms/Transforms.md)
 
-## SlicerMorph Modules
+## SlicerMorph Morphometrics Related Modules
 
 * [Create Semilandmark Patches](https://github.com/SlicerMorph/S_2020/blob/master/Day_3/Patch-based_semiLMs/Patch-based_semiLMs.md)
 * [Pseudolandmark generator](https://github.com/SlicerMorph/S_2020/blob/master/Day_3/PseudoLMGenerator/PseudoLMGenerator.md)
