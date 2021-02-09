@@ -47,4 +47,23 @@ For demonstration of using MorphoSource data and segmentation examples, we will 
 * [ALPACA - Transfer Landmarks between Meshes](https://github.com/SlicerMorph/S_2020/blob/master/Lab_ALPACA/README.md)
 *	[Generalized Procrustes Analysis (GPA)](https://github.com/SlicerMorph/S_2020/blob/master/Day_3/GPA/GPA.md)
 
+## Solutions to Common Issues with 3D Slicer and SlicerMorph
 
+Some of these questions frequently (and repeatedly) asked on the Slicer forum. This is a collection of answers to previous inquries which might be helpful:
+
+### Volume Rendering 
+* [**Strong staircase artifacts in Volume Rendering:**](https://discourse.slicer.org/t/volume-rendering-staircase-artifacts/14666)
+* [**Low Volume Rendering perfomance and stuttering:**](https://discourse.slicer.org/t/pixelated-3d-view-in-volume-rendering/15605/6?u=muratmaga)
+* [**No rendering in 3D windows in GPU rendering:**](https://discourse.slicer.org/t/hardware-suggestion-and-graphic-cards-ubuntu-or-macos/14348/6?u=muratmaga)
+
+### Memory issues with Crop Volume, Segmentation oversampling and related
+* [**Out of memory #1**](https://discourse.slicer.org/t/computer-slows-down-after-volume-is-oversampled/15743/6?u=muratmaga)
+* [**Out of memory #2**:](https://discourse.slicer.org/t/limitation-in-increasing-the-resolution-in-crop-volume-module/9621/2)
+* [**Bad Allocation Exception**](https://discourse.slicer.org/t/bad-allocation-exception/12172)
+
+### Miscellaneous
+* [**Why JPG is a poor format for 3D volumes:**](https://discourse.slicer.org/t/error-when-saving-labelmap-to-jpg/11630)
+* [**Why STL is a poor format for distribution of 3D models:**](https://discourse.slicer.org/t/beware-of-the-stl-file-format/7642/18)
+* [**Reading/Writing large volumes is slow**:](https://discourse.slicer.org/t/can-slicer-utilise-multiple-cores-on-linux/9240)
+Note that is almost always tied to file compression, which is enabled by default in Slicer. If you choose to use SlicerMorph specific settings, it will disable compression. 
+* [**Incorrect Z-spacing in multislice TIFF:**](https://discourse.slicer.org/t/saggital-and-coronal-view-are-distorted-stretched-out/6868)
