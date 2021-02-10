@@ -3,7 +3,8 @@ This is a brief introduction to 3D Slicer and the SlicerMorph extension for the 
 
 ## [Installing 3D Slicer and SlicerMorph]
 [See instructions here](https://github.com/SlicerMorph/SlicerMorph#installation)
-For this workshop please download THIS version of 3D slicer for [Windos](https://download.slicer.org/bitstream/1428488), [MacOS](https://download.slicer.org/bitstream/1428525), or [Linux](https://download.slicer.org/bitstream/1429054)
+
+For this workshop please download THIS version of 3D slicer for [Windos](https://download.slicer.org/bitstream/1428488), [MacOS](https://download.slicer.org/bitstream/1428525), or [Linux](https://download.slicer.org/bitstream/1429054) and then use the extention manager to install SlicerMorph. 
 
 ## Getting Started with 3D Slicer and SlicerMorph
 
