@@ -3,7 +3,7 @@ This is a brief introduction to 3D Slicer and the SlicerMorph extension for the 
 
 ## [Installing 3D Slicer and SlicerMorph]
 [See instructions here](https://github.com/SlicerMorph/SlicerMorph#installation)
-TODO: ADD TO THE SPECIFIC DOWNLOAD LINK FROM TUESDAY (We will use the preview version). 
+For this workshop please download THIS version of 3D slicer for [Windos](https://download.slicer.org/bitstream/1428488), [MacOS](https://download.slicer.org/bitstream/1428525), or [Linux](https://download.slicer.org/bitstream/1429054)
 
 ## Getting Started with 3D Slicer and SlicerMorph
 
@@ -26,8 +26,6 @@ For demonstration of using MorphoSource data and segmentation examples, we will 
 
 ### SlicerMorph Specific Functionalities for Loading and Saving Data
 * [ImageStacks](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/ImageStacks/ImageStacks.md)
-* [SkyScanReconImport](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/ImageStacks/ImageStacks.md#skyscanreconimport)
-*	[MorphoSourceImport](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/MorphoSourceImport/MorphoSourceImport.md)
 * [ExportAs](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/ExportAs/ExportAs.md)
 
 ## Visualizing and Annotating your Data using 3D Slicer Modules
