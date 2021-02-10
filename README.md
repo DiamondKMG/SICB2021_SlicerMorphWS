@@ -26,7 +26,7 @@ For demonstration of using MorphoSource data and segmentation examples, we will 
 * [Data Module and Subject Hierarchy explained](https://slicer.readthedocs.io/en/latest/user_guide/modules/data.html)
 
 ### SlicerMorph Specific Functionalities for Loading and Saving Data
-* [ImageStacks](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/ImageStacks/ImageStacks.md)
+* [ImageStacks + SkyscanReconImport](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/ImageStacks/ImageStacks.md)
 * [ExportAs](https://github.com/SlicerMorph/S_2020/blob/master/Day_1/ExportAs/ExportAs.md)
 
 ## Visualizing and Annotating your Data using 3D Slicer Modules
