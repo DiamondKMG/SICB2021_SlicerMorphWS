@@ -22,7 +22,6 @@ For demonstration of using MorphoSource data and segmentation examples, we will 
 ### 3D Slicer Basics (UI, Input/Output and Data) 
 *	[Navigating UI](https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html)
 * [Extension Manager and Catalogue](https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html#extensions)
-* [Loading Data and Saving (Slicer's Default way)](https://slicer.readthedocs.io/en/latest/user_guide/data_loading_and_saving.html)
 * [Data Module and Subject Hierarchy explained](https://slicer.readthedocs.io/en/latest/user_guide/modules/data.html)
 
 ### SlicerMorph Specific Functionalities for Loading and Saving Data
