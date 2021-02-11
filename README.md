@@ -60,6 +60,7 @@ Some of these questions frequently (and repeatedly) asked on the [3D Slicer foru
 * [**No rendering in 3D windows in GPU rendering:**](https://discourse.slicer.org/t/hardware-suggestion-and-graphic-cards-ubuntu-or-macos/14348/6?u=muratmaga)
 
 ### Memory issues with Crop Volume, Segmentation oversampling and related
+* [**Explanation of oversampling segmentation geometry:**](https://discourse.slicer.org/t/increasing-segmentation-resolution/15939/3)
 * [**Out of memory #1**](https://discourse.slicer.org/t/computer-slows-down-after-volume-is-oversampled/15743/6?u=muratmaga)
 * [**Out of memory #2**:](https://discourse.slicer.org/t/limitation-in-increasing-the-resolution-in-crop-volume-module/9621/2)
 * [**Bad Allocation Exception**](https://discourse.slicer.org/t/bad-allocation-exception/12172)
