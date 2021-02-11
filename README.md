@@ -1,10 +1,10 @@
 # SICB2021 SlicerMorph Workshop
 This is a brief introduction to 3D Slicer and the SlicerMorph extension for the Society for Integrative and Comparative Biology annual meeting. 
 
-## [Installing 3D Slicer and SlicerMorph]
+## Installing 3D Slicer and SlicerMorph
 [See instructions here](https://github.com/SlicerMorph/SlicerMorph#installation)
 
-For this workshop please download THIS version of 3D slicer for [Windos](https://download.slicer.org/bitstream/1428488), [MacOS](https://download.slicer.org/bitstream/1428525), or [Linux](https://download.slicer.org/bitstream/1429054) and then use the extention manager to install SlicerMorph. 
+For this workshop please download THIS version of 3D slicer for [Windows](https://download.slicer.org/bitstream/1428488), [MacOS](https://download.slicer.org/bitstream/1428525), or [Linux](https://download.slicer.org/bitstream/1429054) and then use the extention manager to install SlicerMorph. 
 
 ## Getting Started with 3D Slicer and SlicerMorph
 
@@ -46,9 +46,14 @@ For demonstration of using MorphoSource data and segmentation examples, we will 
 * [ALPACA - Transfer Landmarks between Meshes](https://github.com/SlicerMorph/S_2020/blob/master/Lab_ALPACA/README.md)
 *	[Generalized Procrustes Analysis (GPA)](https://github.com/SlicerMorph/S_2020/blob/master/Day_3/GPA/GPA.md)
 
+### Extra:
+* [Convenience function to import landmark files in FCSV and JSON format into R](https://github.com/muratmaga/SlicerMorph_Rexamples) 
+* [An example of working with SlicerMorph data in R](https://github.com/muratmaga/SlicerMorph_Rexamples/blob/main/geomorph_regression.R)
+
+
 ## Solutions to Common Issues with 3D Slicer and SlicerMorph
 
-Some of these questions frequently (and repeatedly) asked on the Slicer forum. This is a collection of answers to previous inquries which might be helpful:
+Some of these questions frequently (and repeatedly) asked on the [3D Slicer forum](https://discourse.slicer.org). This is a collection of answers to previous inquries which might be helpful. If you cannot find an answer to your question, feel free to post it on the forum link above. If it is specific to SlicerMorph, make sure to label it with _SlicerMorph_ tag so that we get notified. 
 
 ### Volume Rendering 
 * [**Strong staircase artifacts in Volume Rendering:**](https://discourse.slicer.org/t/volume-rendering-staircase-artifacts/14666)
