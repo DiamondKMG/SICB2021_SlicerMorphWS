@@ -66,6 +66,7 @@ Some of these questions frequently (and repeatedly) asked on the [3D Slicer foru
 * [**Bad Allocation Exception**](https://discourse.slicer.org/t/bad-allocation-exception/12172)
 
 ### Miscellaneous
+* [**Capture high-resolution screenshot:**](https://discourse.slicer.org/t/higher-resolution-for-screen-captures-of-3d-view/8880/20)
 * [**Why JPG is a poor format for 3D volumes:**](https://discourse.slicer.org/t/error-when-saving-labelmap-to-jpg/11630)
 * [**Why STL is a poor format for distribution of 3D models:**](https://discourse.slicer.org/t/beware-of-the-stl-file-format/7642/18)
 * [**Reading/Writing large volumes is slow**:](https://discourse.slicer.org/t/can-slicer-utilise-multiple-cores-on-linux/9240)
